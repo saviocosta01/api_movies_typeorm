@@ -1,5 +1,7 @@
 # Locadora de filmes com TypeORM
 
+-Esta api é um CRUD de uma locadora de filmes.
+
 # Endpoints
 
 | Método | Endpoint    | Responsabilidade                  |
